@@ -1,1 +1,10 @@
 
+Each new feature is developed in its own separate branch instead of directly working on the main branch.
+
+Why use Feature-Based Development?
+
+Safe development
+Parallel work
+Easy code review
+Controlled merging
+Better organization
